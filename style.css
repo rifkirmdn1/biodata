@@ -1,0 +1,53 @@
+@import url('http://fonts.googleapis.com/css/family=Quicksand:400.500&subset=latin-ext');
+body {
+    padding: 130px;
+    background-image: linear-gradient(-20deg, #f3dee1 0%, #2a2d30 100%);
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+ul {
+    margin-left: -55px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+.main {
+    width: 900px;
+    height: 570px;
+    background-color: #fafafa;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 1px solid  #eeeeee'
+}
+.img {
+    background-image: url(TommyShelby.jpg);
+    background-color: #eaeaea;
+    background-size: cover;
+    border-radius: 150px;
+    width: 170px;
+    height: 160px;
+    margin: 0 auto;
+    border: 1px solid #eaeaea;
+}
+h1 {
+    text-align: center;
+    font-size: 35px;
+    margin: 0;
+    font-weight: bold;
+    color: #2d2a35;
+}
+.text {
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+    color: #272b2e;
+}
+p {
+    margin: 0 auto;
+    padding-top: 25px;
+    width: 470px;
+    height: auto;
+    color: #1a1c1d;
+}
